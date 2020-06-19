@@ -1,13 +1,15 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima
+title: Draft webpage for Andrew J. Crawford
+author: Andew J. Crawford
+email: andrew@dna.ac
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am an evolutionary biologist interested in frogs of the American Tropics. 
+  I use genetic information to reconstruct the history and demography of frogs. 
+  I am the amphibian chair of the Vertebrate Genomes Project. Now I want to learn to do the genomic analyses myself
+  So, here I am on github learning the ropes. 
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: CrawfordAJ # DO NOT include the @ character, or else the build will fail!
+github_username:  CrawfordAJ # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
